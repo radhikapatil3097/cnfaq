@@ -646,4 +646,11 @@ b) addressing
 c) forwarding
 d) none of the mentioned
 Answer:a
-
+86.Describe IPv4 address space?
+It is defined as the total number of addresses used by the protocol. 
+If N number of bits are used for defining as address then the address space will be 2^N addresses.
+87.Describe IPv4 address format and notations?
+The 32 bit IPv4 address is grouped into groups of eight bits, separated by dots. 
+Each 8 bit group is then converted into its equivalent binary number.
+Thus each octet (8 bit) can take value from 0 to 255.
+The IPv4 in the dotted decimal notation can range from 0.0.0.0 to 255.255.255.255.
